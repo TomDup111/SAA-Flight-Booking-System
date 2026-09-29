@@ -65,16 +65,3 @@ The main relationships include:
 The C# Console Application connects to the SAAFlightBookingDB SQL Server database using Microsoft.Data.SqlClient.
 
 The application retrieves and displays passenger records from the Passengers table.
-
-## Project Structure
-
-```text
-SAA-Flight-Booking-System
-│
-├── SQL
-│   └── SAAFlightBookingDB.sql
-│
-├── CSharp
-│   └── Program.cs
-│
-└── README.md
